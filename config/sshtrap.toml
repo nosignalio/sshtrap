@@ -1,0 +1,3 @@
+[service]
+port = ":2222"
+protocol = "tcp"

@@ -28,8 +28,9 @@ TBC
 ## Todo
 
 * Support for logging to syslog.
+* Support a configuration file.
 * Tracking of SSH clients stuck in the tarpit.
-* Rewrite the bytes generator. I pinched it off of StackOverflow to PoC.
+* ~Rewrite the bytes generator. I pinched it off of StackOverflow to PoC.~
 * `systemd` unit file to run the server as a service.
 * Docker file to build the server in a container.
 
